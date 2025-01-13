@@ -68,4 +68,3 @@ jobs:
           app-name: 'Shahmeer-Backend'
           slot-name: 'Production'
           package: .
-          
